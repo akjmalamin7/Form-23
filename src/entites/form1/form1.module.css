@@ -1,0 +1,14 @@
+.form_wrapper{
+    margin-top: 30px;
+    border:1px solid rgba(30,39,46,.1);
+    padding:20px;
+    border-radius: 5px;
+}
+.items{
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+}
+.button_wrapper{
+    margin-top: 15px;
+}
